@@ -22,6 +22,7 @@ target/
 *.ipr
 *.iml
 *.iws
+*.jar
 
 #tmp file
 *.log
