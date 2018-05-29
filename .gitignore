@@ -19,6 +19,7 @@ target/
 #idea
 .idea/
 /idea/
+out/
 *.ipr
 *.iml
 *.iws

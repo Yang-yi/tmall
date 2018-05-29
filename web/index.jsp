@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <a href="/admin_category_list">去后台</a>
   </body>
 </html>
